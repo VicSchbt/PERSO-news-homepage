@@ -26,10 +26,10 @@ Users should be able to:
 ![](./screenshots/screenshot-desktop.png)
 ![](./screenshots/screenshot-mobile.png) ![](./screenshots/screenshot-mobile-menu.png)
 
-<!-- ### Links
+### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Live Site URL: [News homepage](https://vicschbt.github.io/PERSO-news-homepage/) 
 
 ## My process
 
